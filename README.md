@@ -1,21 +1,11 @@
 # Основи машинског учења
 
-Зимски семестар школске 2023./2024. године
+Зимски семестар школске 2024/2025. године
 * наставник: Владимир М. Миловановић
 
 ## Обавештења
 
-Одбрана студентских пројеката за студенте који су испит из Основа машинског учења пријавили у јунском испитном року биће одржана у четвртак 20. јуна 2024. године од 17:30 часова у рачунарској учионици Д-66.
-
-Студентски предлози пројеката из предмета Основи машинског учења одржани су у четвртак 25. јануара 2024. године с почетком у 14:30 у рачунарској учионици Д-66.
-
 [Резултати](https://docs.google.com/spreadsheets/d/1Px0T6lmYpvEGkkjWExraIYV5swQIhCCZoB0SE1HPMkk/edit?usp=sharing) домаћих задатака Титаник и Цена кућа.
-
-Предавања и вежбе из Основа машинског учења у понедељак 8. јануара 2024. године неће бити одржани због поштовања [препоруке](https://www.srbija.gov.rs/vest/758232/zakljucak-vlade-kojim-se-preporucuje-da-drugi-dan-bozica-bude-neradan.php) Владе Републике Србије да други дан Божића буде нерадан.
-
-Предавања и вежбе из Основа машинског учења у понедељак 4. децембра 2023. године нису одржани због одсуства предметног наставника.
-
-Настава из Основа машинског учења у школској 2023/24. години почела је у понедељак 25. септембра 2023. године.
 
 <!--Студенти који су заинтересовани за добијање званичног [HCIA-AI](./Huawei/010102001901808059131409.pdf) сертификата, неопходно је да се до 8. фебруара у 23:59 пријаве преко [формулара](https://docs.google.com/forms/d/e/1FAIpQLSc0UzAvP99y81weKJE77Cgwo0Tw4PyPsZ1_8XW4kIqe8jtMhg/viewform?usp=sf_link).-->
 
@@ -95,6 +85,9 @@
 Уџбеник на српском језику:
 * [Предраг Јаничић](http://poincare.matf.bg.ac.rs/~janicic) и [Младен Николић](http://poincare.matf.bg.ac.rs/~mladen.nikolic), **[Вештачка интелигенција](http://poincare.matf.bg.ac.rs/~predrag.janicic/books/VI_A4.pdf)**, Математички факултет у Београду, 2023.
 
+Уџбеник на енглеском језику за припрему за добијање HCIA-AI сертификата:
+* [Huawei Technologies](https://e.huawei.com/en/talent/learning/#/booklist), [Artificial Intelligence Technology](https://link.springer.com/book/10.1007/978-981-19-2879-6), Springer, 2023.
+
 ### Корисне видео лекције
 
 На енглеском:
@@ -102,6 +95,7 @@
 * Stanford: [CS229 - јесен 2018.](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * Stanford: [CS229 - лето 2019.](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh)
 * Stanford: [CS229 - пролеће 2022.](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
+* Stanford: CS229 - лето 2024. гостујуће предавање: [Introduction to Building LLMs](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 * MIT: [6.036 - јесен 2020.](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
 
 #### Математичка предспрема за машинско учење
@@ -115,7 +109,7 @@
 ## Интернет курсеви
 
 На енглеском:
-* [Huawei ICT Academy: Machine Learning Fundamentals](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - уписни код: nimMkC - 5 поена
+* [Huawei ICT Academy: Machine and Deep Learning Fundamentals](https://uniportal.huawei.com/accounts/register.do?method=toRegister) - [уписни код](https://e.huawei.com/en/talent/#/course/course-details?applicationId=1759326243776&courseType=ICT&invitedCode=p2BpFk&urlForm=myclass): p2BpFk - 5 поена
 * званична сертификација [HCIA-AI](./Huawei/010102001901808059131409.pdf)
 * [DeepLearning.AI](https://www.deeplearning.ai) - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | [Coursera](https://www.coursera.org)
   * [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
